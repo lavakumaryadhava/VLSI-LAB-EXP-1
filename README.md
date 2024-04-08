@@ -155,7 +155,33 @@ or G5(CO,w3,w3);
 endmodule
 ```
 OUTPUT:
-
+# LOGIC GATES
+# OR gate:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/4b503d63-b2c0-4255-a581-b6b273081b5c)
+# NOT gate:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/3f6a703e-3557-40d3-8934-f6fda5d413c4)
+# AND gate:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/15897bb4-d7d3-48d8-ba32-0ca3b6fb188e)
+# NAND gate:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/0753d13c-aeae-4f34-a0ad-c3f18b783204)
+# NOR gate:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/f728e8e9-d8c5-4985-9270-cd5998745696)
+# XNOR gate:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/439a0925-ff55-406a-acb6-3bcb28fe9b80)
+# XOR gate:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/870121a2-8dc6-4f59-a1cc-ce04c2235b78)
+# Half Adder:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/8de4e914-6118-4ccf-868e-88dd08a09d7d)
+# Half Subtracter:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/d335eb66-f012-4d35-9a14-35157d8b3129)
+# Full Adder:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/b41468a2-d700-40ee-8666-e1033a1ee614)
+# Full Subtracter:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/35839a9b-53a8-43ed-8b3b-cc889a1c6ea6)
+# 4 Bit Ripple Carry Adder:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/67b67b05-3429-4a0e-abda-e1c1305a4f82)
+# 8 Bit Ripple Carry Adder:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/6cf32583-d6ca-4bd2-890e-6948b0cd67a4)
 
 RESULT:
 
