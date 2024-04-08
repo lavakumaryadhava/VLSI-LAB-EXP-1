@@ -157,31 +157,51 @@ endmodule
 OUTPUT:
 # LOGIC GATES
 # OR gate:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/4b503d63-b2c0-4255-a581-b6b273081b5c)
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/ba92058b-2889-465e-8269-289741e4ef33)
 # NOT gate:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/3f6a703e-3557-40d3-8934-f6fda5d413c4)
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/516429e9-fddf-4b48-8aa6-ecd690946f32)
+
 # AND gate:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/15897bb4-d7d3-48d8-ba32-0ca3b6fb188e)
+
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/d9f205fa-14d3-4121-ac85-7cf60b16c57c)
 # NAND gate:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/0753d13c-aeae-4f34-a0ad-c3f18b783204)
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/105b921f-69b0-42fe-ab9a-45b63d4fa88c)
 # NOR gate:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/f728e8e9-d8c5-4985-9270-cd5998745696)
+
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/389c26f6-9dba-414e-ab7f-06952c256cc5)
+
+
 # XNOR gate:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/439a0925-ff55-406a-acb6-3bcb28fe9b80)
+
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/0837e663-cfb6-4f68-a57c-72e5e4379b5d)
+
 # XOR gate:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/870121a2-8dc6-4f59-a1cc-ce04c2235b78)
+
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/b3be2bc1-af84-4eb8-aa7d-4d4f00afddb8)
+
 # Half Adder:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/8de4e914-6118-4ccf-868e-88dd08a09d7d)
+
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/2f69998a-7254-401c-8a17-c0f8aef7a01f)
+
 # Half Subtracter:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/d335eb66-f012-4d35-9a14-35157d8b3129)
+
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/a3666a8b-45ff-4bf1-9ca9-52af9b59282c)
+
 # Full Adder:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/b41468a2-d700-40ee-8666-e1033a1ee614)
+
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/7dca9557-a439-4a64-a739-1522b3f5422d)
+
 # Full Subtracter:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/35839a9b-53a8-43ed-8b3b-cc889a1c6ea6)
+
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/3cb4b692-cde5-4924-a239-fc691afbefc5)
+
 # 4 Bit Ripple Carry Adder:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/67b67b05-3429-4a0e-abda-e1c1305a4f82)
+
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/855b8abf-059d-44d3-b603-2fe8e7e89dcd)
+
 # 8 Bit Ripple Carry Adder:
-![image](https://github.com/Sairam1034/VLSI-LAB-EXP-1/assets/161026996/6cf32583-d6ca-4bd2-890e-6948b0cd67a4)
+
+![image](https://github.com/lavakumaryadhava/VLSI-LAB-EXP-1/assets/162088994/541ba029-b002-4fa4-9049-b41a6af73d81)
 
 RESULT:
 
